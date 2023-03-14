@@ -1,0 +1,27 @@
+* {
+  margin: 30px;
+}
+
+.search {
+  color: darkcyan;
+  border-radius: 30px;
+  border-color: darkcyan;
+  padding: 10px 60px;
+}
+
+.plus {
+  color: aliceblue;
+  border-radius: 50%;
+  border-color: darkcyan;
+  background-color: darkcyan;
+  padding: 10px 15px;
+}
+
+.create {
+  color: aliceblue;
+  font-size: 20px;
+  border-color: black;
+  background-color: dodgerblue;
+  padding: 15px 20px;
+  box-shadow: 10px 10px 10px black;
+}
